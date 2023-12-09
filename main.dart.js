@@ -86900,7 +86900,7 @@ this.aj()},
 rg(a,b){return this.ar_(a,b)},
 ar_(a1,a2){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$rg=A.L(function(a3,a4){if(a3===1){p=a4
-s=q}while(true)switch(s){case 0:b="http://34.134.247.32:8000"
+s=q}while(true)switch(s){case 0:b="http://34.28.82.182:8000"
 q=3
 h=o.x
 h.sl(0,!0)
@@ -87072,7 +87072,7 @@ A.ye.prototype={
 oC(a){return this.Yc(a)},
 Yc(a){var s=0,r=A.P(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e
 var $async$oC=A.L(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:g=A.dn("http://34.134.247.32:8000/v1/clients/"+a+"/profile",0,null)
+s=p}while(true)switch(s){case 0:g=A.dn("http://34.28.82.182:8000/v1/clients/"+a+"/profile",0,null)
 f=n.ay
 f.sl(0,!0)
 p=4
@@ -87132,7 +87132,7 @@ zz(){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$zz=A.L(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 j=o.ax
-n=A.dn("http://34.134.247.32:8000/v1/clients/"+j.gl(j).b,0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/"+j.gl(j).b,0,null)
 j=t.N
 m=A.ap(["Content-Type","application/json","api-key","1234"],j,j)
 A.aR(n)
@@ -87184,7 +87184,7 @@ zr(){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f
 var $async$zr=A.L(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:g=o.dy
 g.sl(0,!0)
-n=A.dn("http://34.134.247.32:8000/v1/editor/create",0,null)
+n=A.dn("http://34.28.82.182:8000/v1/editor/create",0,null)
 j=t.N
 m=A.ap(["email",B.c.f5(o.ax.a.a).toLowerCase(),"password",o.ay.a.a,"full_name",o.ch.a.a,"username",o.CW.a.a,"dob",o.cx.a.a,"phone_number",o.cy.a.a,"assigned_chatbots",[]],j,t.K)
 q=3
@@ -87236,7 +87236,7 @@ zq(){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f
 var $async$zq=A.L(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:g=o.dy
 g.sl(0,!0)
-n=A.dn("http://34.134.247.32:8000/v1/clients/create",0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/create",0,null)
 j=t.N
 m=A.ap(["email",B.c.f5(o.ax.a.a).toLowerCase(),"password",o.ay.a.a,"full_name",o.ch.a.a,"username",o.CW.a.a,"dob",o.cx.a.a,"phone_number",o.cy.a.a],j,j)
 q=3
@@ -87289,7 +87289,7 @@ aqY(a){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f
 var $async$BQ=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:g=o.dy
 g.sl(0,!0)
-n=A.dn("http://34.134.247.32:8000/v1/clients/"+a,0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/"+a,0,null)
 q=3
 j=t.N
 s=6
@@ -87363,7 +87363,7 @@ zp(){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$zp=A.L(function(a1,a2){if(a1===1){p=a2
 s=q}while(true)switch(s){case 0:c=o.ay
 b=o.ch
-a=A.dn("http://34.134.247.32:8000/v1/clients/"+A.i(c.gl(c))+"/chatbots/"+A.i(b.gl(b))+"/create",0,null)
+a=A.dn("http://34.28.82.182:8000/v1/clients/"+A.i(c.gl(c))+"/chatbots/"+A.i(b.gl(b))+"/create",0,null)
 b=o.CW
 b.sl(0,!0)
 q=3
@@ -87424,7 +87424,7 @@ BN(){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a
 var $async$BN=A.L(function(a0,a1){if(a0===1){p=a1
 s=q}while(true)switch(s){case 0:d=o.ay
 c=o.ch
-b=A.dn("http://34.134.247.32:8000/v1/clients/"+A.i(d.gl(d))+"/chatbots/"+A.i(c.gl(c)),0,null)
+b=A.dn("http://34.28.82.182:8000/v1/clients/"+A.i(d.gl(d))+"/chatbots/"+A.i(c.gl(c)),0,null)
 c=o.CW
 c.sl(0,!0)
 q=3
@@ -87484,7 +87484,7 @@ f.sl(0,!0)
 q=3
 i=o.ay
 h=o.ch
-n=A.dn("http://34.134.247.32:8000/v1/clients/"+A.i(i.gl(i))+"/chatbots/"+A.i(h.gl(h))+"/trainings",0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/"+A.i(i.gl(i))+"/chatbots/"+A.i(h.gl(h))+"/trainings",0,null)
 h=t.N
 m=A.ap(["Content-Type","application/json","api-key","1234"],h,h)
 A.aR(n)
@@ -87537,7 +87537,7 @@ var $async$BP=A.L(function(d,e){if(d===1){p=e
 s=q}while(true)switch(s){case 0:q=3
 j=o.ay
 i=o.ch
-n=A.dn("http://34.134.247.32:8000/v1/clients/"+A.i(j.gl(j))+"/chatbots/"+A.i(i.gl(i))+"/trainings/fields/"+a,0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/"+A.i(j.gl(j))+"/chatbots/"+A.i(i.gl(i))+"/trainings/fields/"+a,0,null)
 i=t.N
 m=A.ap(["Content-Type","application/json","api-key","1234"],i,i)
 A.aR(n)
@@ -87586,7 +87586,7 @@ var $async$zA=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 j=o.ay
 i=o.ch
-n=A.dn("http://34.134.247.32:8000/v1/clients/"+A.i(j.gl(j))+"/chatbots/"+A.i(i.gl(i))+"/trainings/fields/"+a,0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/"+A.i(j.gl(j))+"/chatbots/"+A.i(i.gl(i))+"/trainings/fields/"+a,0,null)
 i=t.N
 m=A.ap(["api-key","1234"],i,i)
 s=6
@@ -87662,7 +87662,7 @@ this.Le()},
 wl(a,b){return this.Yw(a,b)},
 Yw(a,b){var s=0,r=A.P(t.a),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$wl=A.L(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:j="http://34.134.247.32:8000/v1/"+a+"/all/profiles"
+s=p}while(true)switch(s){case 0:j="http://34.28.82.182:8000/v1/"+a+"/all/profiles"
 i=t.N
 h=A.ap(["Content-Type","application/json","api-key",b],i,i)
 p=4
@@ -87884,7 +87884,7 @@ $S:0}
 A.Ah.prototype={
 AI(){var s=0,r=A.P(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e
 var $async$AI=A.L(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:g=A.dn("http://34.134.247.32:8000/v1/login",0,null)
+s=p}while(true)switch(s){case 0:g=A.dn("http://34.28.82.182:8000/v1/login",0,null)
 f=n.ch
 f.sl(0,!0)
 p=4
@@ -88233,7 +88233,7 @@ this.aj()},
 zN(a,b){return this.akR(a,b)},
 akR(a,b){var s=0,r=A.P(t.H),q=1,p,o,n,m,l,k,j,i,h,g,f,e,d
 var $async$zN=A.L(function(c,a0){if(c===1){p=a0
-s=q}while(true)switch(s){case 0:e="http://34.134.247.32:8000"
+s=q}while(true)switch(s){case 0:e="http://34.28.82.182:8000"
 q=3
 o=A.i(e)+"/v1/clients/"+a+"/download_report"
 i=t.N
@@ -88434,7 +88434,7 @@ i=e.d5$
 i.eU(e.gl(e))
 h=o.ch.ax
 g=o.CW
-n=A.dn("http://34.134.247.32:8000/v1/clients/"+h.gl(h).b+"/chatbots/"+A.i(g.gl(g))+"/chat",0,null)
+n=A.dn("http://34.28.82.182:8000/v1/clients/"+h.gl(h).b+"/chatbots/"+A.i(g.gl(g))+"/chat",0,null)
 g=o.cx
 g.sl(0,!0)
 q=3
