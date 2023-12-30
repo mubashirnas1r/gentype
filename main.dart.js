@@ -85430,7 +85430,7 @@ this.aj()},
 r6(a,b){return this.aq3(a,b)},
 aq3(a1,a2){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$r6=A.K(function(a3,a4){if(a3===1){p=a4
-s=q}while(true)switch(s){case 0:b="http://127.0.0.1:8000"
+s=q}while(true)switch(s){case 0:b="http://34.28.82.182:8000"
 q=3
 h=o.x
 h.sl(0,!0)
@@ -85506,7 +85506,7 @@ case 1:return A.L(p,r)}})
 return A.N($async$r6,r)},
 uC(){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$uC=A.K(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:d="http://127.0.0.1:8000"
+s=q}while(true)switch(s){case 0:d="http://34.28.82.182:8000"
 q=3
 s=6
 return A.I(o.e.e7(),$async$uC)
@@ -85680,7 +85680,7 @@ A.p0.prototype={
 ra(a,b){return this.XA(a,b)},
 XA(a,b){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d
 var $async$ra=A.K(function(c,a0){if(c===1){p=a0
-s=q}while(true)switch(s){case 0:k="http://127.0.0.1:8000/v1/clients/"+a+"/chatbots/"+b
+s=q}while(true)switch(s){case 0:k="http://34.28.82.182:8000/v1/clients/"+a+"/chatbots/"+b
 j=o.ay
 i=t.N
 f=A
@@ -85720,7 +85720,7 @@ A.xX.prototype={
 mQ(a){return this.XB(a)},
 XB(a){var s=0,r=A.O(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$mQ=A.K(function(b,a0){if(b===1){o=a0
-s=p}while(true)switch(s){case 0:e=A.cp("http://127.0.0.1:8000/v1/clients/"+a+"/profile",0,null)
+s=p}while(true)switch(s){case 0:e=A.cp("http://34.28.82.182:8000/v1/clients/"+a+"/profile",0,null)
 d=n.ay
 d.sl(0,!0)
 h=n.CW
@@ -85795,7 +85795,7 @@ s=6
 return A.I(i.e7(),$async$uq)
 case 6:n=b
 h=o.ax
-m=A.cp("http://127.0.0.1:8000/v1/clients/"+h.gl(h).b,0,null)
+m=A.cp("http://34.28.82.182:8000/v1/clients/"+h.gl(h).b,0,null)
 h=t.N
 l=A.ab(["Content-Type","application/json","api-key",n],h,h)
 A.az(m)
@@ -85853,7 +85853,7 @@ ue(){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$ue=A.K(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:f=o.dy
 f.sl(0,!0)
-n=A.cp("http://127.0.0.1:8000/v1/editor/create",0,null)
+n=A.cp("http://34.28.82.182:8000/v1/editor/create",0,null)
 i=t.N
 m=A.ab(["email",B.c.dW(o.ax.a.a).toLowerCase(),"password",o.ay.a.a,"full_name",o.ch.a.a,"username",o.CW.a.a,"dob",o.cx.a.a,"phone_number",o.cy.a.a,"assigned_chatbots",[]],i,t.K)
 q=3
@@ -85908,7 +85908,7 @@ ud(){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$ud=A.K(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:f=o.dy
 f.sl(0,!0)
-n=A.cp("http://127.0.0.1:8000/v1/clients/create",0,null)
+n=A.cp("http://34.28.82.182:8000/v1/clients/create",0,null)
 i=t.N
 m=A.ab(["email",B.c.dW(o.ax.a.a).toLowerCase(),"password",o.ay.a.a,"full_name",o.ch.a.a,"username",o.CW.a.a,"dob",o.cx.a.a,"phone_number",o.cy.a.a],i,i)
 q=3
@@ -85964,7 +85964,7 @@ aq1(a){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$wd=A.K(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:f=o.dy
 f.sl(0,!0)
-n=A.cp("http://127.0.0.1:8000/v1/clients/"+a,0,null)
+n=A.cp("http://34.28.82.182:8000/v1/clients/"+a,0,null)
 q=3
 i=o.fr
 s=6
@@ -86048,7 +86048,7 @@ uc(){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$uc=A.K(function(a3,a4){if(a3===1){p=a4
 s=q}while(true)switch(s){case 0:a=o.ay
 a0=o.ch
-a1=A.cp("http://127.0.0.1:8000/v1/clients/"+A.i(a.gl(a))+"/chatbots/"+A.i(a0.gl(a0))+"/create",0,null)
+a1=A.cp("http://34.28.82.182:8000/v1/clients/"+A.i(a.gl(a))+"/chatbots/"+A.i(a0.gl(a0))+"/create",0,null)
 a0=o.CW
 a0.sl(0,!0)
 q=3
@@ -86119,7 +86119,7 @@ w8(){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$w8=A.K(function(a2,a3){if(a2===1){p=a3
 s=q}while(true)switch(s){case 0:b=o.ay
 a=o.ch
-a0=A.cp("http://127.0.0.1:8000/v1/clients/"+A.i(b.gl(b))+"/chatbots/"+A.i(a.gl(a)),0,null)
+a0=A.cp("http://34.28.82.182:8000/v1/clients/"+A.i(b.gl(b))+"/chatbots/"+A.i(a.gl(a)),0,null)
 a=o.CW
 a.sl(0,!0)
 q=3
@@ -86193,7 +86193,7 @@ return A.I(h.e7(),$async$tN)
 case 6:n=b
 g=o.ay
 f=o.ch
-m=A.cp("http://127.0.0.1:8000/v1/clients/"+A.i(g.gl(g))+"/chatbots/"+A.i(f.gl(f))+"/trainings",0,null)
+m=A.cp("http://34.28.82.182:8000/v1/clients/"+A.i(g.gl(g))+"/chatbots/"+A.i(f.gl(f))+"/trainings",0,null)
 f=t.N
 l=A.ab(["Content-Type","application/json","api-key",n],f,f)
 A.az(m)
@@ -86256,7 +86256,7 @@ return A.I(i.e7(),$async$wc)
 case 6:n=a0
 h=o.ay
 g=o.ch
-m=A.cp("http://127.0.0.1:8000/v1/clients/"+A.i(h.gl(h))+"/chatbots/"+A.i(g.gl(g))+"/trainings/fields/"+a,0,null)
+m=A.cp("http://34.28.82.182:8000/v1/clients/"+A.i(h.gl(h))+"/chatbots/"+A.i(g.gl(g))+"/trainings/fields/"+a,0,null)
 g=t.N
 l=A.ab(["Content-Type","application/json","api-key",n],g,g)
 A.az(m)
@@ -86315,7 +86315,7 @@ return A.I(i.e7(),$async$ur)
 case 6:n=c
 h=o.ay
 g=o.ch
-m=A.cp("http://127.0.0.1:8000/v1/clients/"+A.i(h.gl(h))+"/chatbots/"+A.i(g.gl(g))+"/trainings/fields/"+a,0,null)
+m=A.cp("http://34.28.82.182:8000/v1/clients/"+A.i(h.gl(h))+"/chatbots/"+A.i(g.gl(g))+"/trainings/fields/"+a,0,null)
 g=t.N
 l=A.ab(["api-key",n],g,g)
 s=7
@@ -86397,7 +86397,7 @@ this.CG()},
 rm(a){return this.XW(a)},
 XW(a0){var s=0,r=A.O(t.a),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c,b,a
 var $async$rm=A.K(function(a1,a2){if(a1===1){o=a2
-s=p}while(true)switch(s){case 0:h="http://127.0.0.1:8000/v1/"+a0+"/all/profiles"
+s=p}while(true)switch(s){case 0:h="http://34.28.82.182:8000/v1/"+a0+"/all/profiles"
 g=n.ch
 f=t.N
 c=A
@@ -86742,7 +86742,7 @@ A.z2.prototype={
 Ac(a){return this.akG(a)},
 akG(a){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$Ac=A.K(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:h="http://127.0.0.1:8000/v1/clients/"+a+"/account/passwords/forgot_password"
+s=q}while(true)switch(s){case 0:h="http://34.28.82.182:8000/v1/clients/"+a+"/account/passwords/forgot_password"
 q=3
 k=o.CW
 k.sl(0,!0)
@@ -86784,7 +86784,7 @@ return A.N($async$Ac,r)},
 BB(a,b,c){return this.apc(a,b,c)},
 apc(a,b,c){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$BB=A.K(function(d,a0){if(d===1){p=a0
-s=q}while(true)switch(s){case 0:f="http://127.0.0.1:8000/v1/clients/"+a+"/account/passwords/reset-password"
+s=q}while(true)switch(s){case 0:f="http://34.28.82.182:8000/v1/clients/"+a+"/account/passwords/reset-password"
 q=3
 j=o.CW
 j.sl(0,!0)
@@ -86899,7 +86899,7 @@ return A.N($async$vX,r)},
 oy(a){return this.XT(a)},
 XT(a){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$oy=A.K(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:h="http://127.0.0.1:8000/v1/clients/"+a+"/subscriptions/details"
+s=q}while(true)switch(s){case 0:h="http://34.28.82.182:8000/v1/clients/"+a+"/subscriptions/details"
 q=3
 s=6
 return A.I(o.e7(),$async$oy)
@@ -86929,7 +86929,7 @@ case 1:return A.L(p,r)}})
 return A.N($async$oy,r)},
 ln(){var s=0,r=A.O(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d
 var $async$ln=A.K(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:f=A.cp("http://127.0.0.1:8000/v1/login",0,null)
+s=p}while(true)switch(s){case 0:f=A.cp("http://34.28.82.182:8000/v1/login",0,null)
 e=n.cx
 e.sl(0,!0)
 p=4
@@ -87221,7 +87221,7 @@ pW(a){return this.ajl(a)},
 ajl(a){var s=0,r=A.O(t.N),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d
 var $async$pW=A.K(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:g=n.ay
-d="http://127.0.0.1:8000/v1/clients/"
+d="http://34.28.82.182:8000/v1/clients/"
 s=3
 return A.I(g.re(),$async$pW)
 case 3:f=d+c+"/subscriptions/create_session/"+a
@@ -87275,7 +87275,7 @@ return A.N($async$pW,r)},
 pV(){var s=0,r=A.O(t.N),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d
 var $async$pV=A.K(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:g=n.ay
-d="http://127.0.0.1:8000/v1/clients/"
+d="http://34.28.82.182:8000/v1/clients/"
 s=3
 return A.I(g.re(),$async$pV)
 case 3:f=d+b+"/subscriptions/create_portal"
@@ -87409,7 +87409,7 @@ this.aj()},
 uD(a){return this.ajV(a)},
 ajV(a){var s=0,r=A.O(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$uD=A.K(function(b,a0){if(b===1){p=a0
-s=q}while(true)switch(s){case 0:d="http://127.0.0.1:8000"
+s=q}while(true)switch(s){case 0:d="http://34.28.82.182:8000"
 q=3
 s=6
 return A.I(o.f.e7(),$async$uD)
@@ -87624,7 +87624,7 @@ f=a.dd$
 f.fd(a.gl(a))
 e=o.ch.ax
 d=o.CW
-n=A.cp("http://127.0.0.1:8000/v1/clients/"+e.gl(e).b+"/chatbots/"+A.i(d.gl(d))+"/chat",0,null)
+n=A.cp("http://34.28.82.182:8000/v1/clients/"+e.gl(e).b+"/chatbots/"+A.i(d.gl(d))+"/chat",0,null)
 d=o.cx
 d.sl(0,!0)
 q=3
