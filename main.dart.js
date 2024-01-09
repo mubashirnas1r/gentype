@@ -86058,7 +86058,7 @@ s=q}while(true)switch(s){case 0:f=o.fr
 f.sl(0,!0)
 n=A.cd("https://api.gentype.net/v1/editor/create",0,null)
 i=t.N
-m=A.a9(["email",B.c.dX(o.ay.a.a).toLowerCase(),"password",o.ch.a.a,"full_name",o.CW.a.a,"username",o.cx.a.a,"dob",o.cy.a.a,"phone_number",o.db.a.a,"assigned_chatbots",[]],i,t.K)
+m=A.a9(["sample_id",o.ax.a.a,"email",B.c.dX(o.ay.a.a).toLowerCase(),"password",o.ch.a.a,"full_name",o.CW.a.a,"username",o.cx.a.a,"dob",o.cy.a.a,"phone_number",o.db.a.a,"assigned_chatbots",[]],i,t.K)
 q=3
 s=6
 return A.G(o.fx.dA(),$async$uf)
